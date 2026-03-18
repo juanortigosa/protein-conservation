@@ -1,4 +1,4 @@
-# ConservationScope 🧬
+# ProteinConservation 🧬
 
 App Streamlit para análisis de conservación de secuencias proteicas a partir de alineamientos múltiples.
 
